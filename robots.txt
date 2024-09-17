@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cropity.github.io/sitemap.html.gz
+Sitemap: https://cropity.github.io/app/sitemap.html.gz
+Sitemap: https://cropity.github.io/assets/sitemap.html.gz
+Sitemap: https://cropity.github.io/css/sitemap.html.gz
+Sitemap: https://cropity.github.io/includes/sitemap.html.gz
+Sitemap: https://cropity.github.io/item/sitemap.html.gz
+Sitemap: https://cropity.github.io/src/sitemap.html.gz
